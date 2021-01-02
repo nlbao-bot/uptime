@@ -12,11 +12,11 @@ sites:
     url: https://nlbao.github.io/uptime
   - name: Secret Site
     url: $SECRET_SITE
+  - name: anla11.github.io
+    url: https://anla11.github.io/
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
-  - name: Sample Broken Site
-    url: https://thissitedoesnotexist.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
