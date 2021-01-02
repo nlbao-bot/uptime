@@ -6,17 +6,17 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: nlbao.netlify.app
     url: nlbao.netlify.app
-  - name: https://nlbao.github.io
+  - name: nlbao.github.io
     url: https://nlbao.github.io
-  - name: Self
-    url: https://nlbao.github.io/uptime/
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: nlbao.github.io/uptime
+    url: https://nlbao.github.io/uptime
+  - name: Secret Site
+    url: $SECRET_SITE
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Sample Broken Site
+    url: https://thissitedoesnotexist.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -25,8 +25,8 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: nlbao's Upptime
-  introTitle: "**[Upptime](https://github.com/upptime/upptime)** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This status page uses **real-time** data from https://github.com/nlbao/uptime. No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Real-time** data from [github.com/nlbao/uptime](https://github.com/nlbao/uptime)"
+  introMessage: No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime).
   navbar:
     - title: Status
       href: /
