@@ -4,12 +4,14 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: nlbao.netlify.app
+- name: nlbao.page
+    url: nlbao.page
+- name: nlbao.netlify.app
     url: nlbao.netlify.app
   - name: nlbao.github.io
     url: https://nlbao.github.io
-  - name: nlbao.github.io/uptime
-    url: https://nlbao.github.io/uptime
+  - name: nlbao-bot.github.io/uptime
+    url: https://nlbao-bot.github.io/uptime
   - name: Secret Site
     url: $SECRET_SITE
   - name: anla11.github.io
