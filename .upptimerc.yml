@@ -10,8 +10,8 @@ sites:
     url: nlbao.netlify.app
   - name: nlbao.github.io
     url: https://nlbao.github.io
-  - name: $OWNER.github.io/$REPO
-    url: https://$OWNER.github.io/$REPO
+  - name: nlbao-bot.github.io/uptime
+    url: https://nlbao-bot.github.io/uptime
   - name: Secret Site
     url: $SECRET_SITE
   - name: anla11.github.io
