@@ -10,8 +10,8 @@ sites:
     url: nlbao.netlify.app
   - name: nlbao.github.io
     url: https://nlbao.github.io
-  - name: nlbao-bot.github.io/uptime
-    url: https://nlbao-bot.github.io/uptime
+  - name: $OWNER.github.io/$REPO
+    url: https://$OWNER.github.io/$REPO
   - name: Secret Site
     url: $SECRET_SITE
   - name: anla11.github.io
@@ -24,10 +24,10 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /uptime
+  baseUrl: /$REPO
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: nlbao's Upptime
-  introTitle: "**Real-time** data from [github.com/nlbao-bot/uptime](https://github.com/nlbao-bot/uptime)"
+  introTitle: "**Real-time** data from [github.com/$OWNER/$REPO](https://github.com/$OWNER/$REPO)"
   introMessage: No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime).
   navbar:
     - title: Status
