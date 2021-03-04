@@ -96,18 +96,20 @@
     "url": "https://anla11.github.io/",
     "icon": "https://favicons.githubusercontent.com/anla11.github.io",
     "slug": "anla11-github-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 159,
-    "timeWeek": 120,
-    "timeMonth": 102,
-    "timeYear": 106,
-    "dailyMinutesDown": {}
+    "time": 169,
+    "timeDay": 2338,
+    "timeWeek": 670,
+    "timeMonth": 255,
+    "timeYear": 169,
+    "dailyMinutesDown": {
+      "2021-03-04": 0
+    }
   },
   {
     "name": "Test for HEAD",
