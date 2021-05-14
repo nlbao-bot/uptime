@@ -4,19 +4,19 @@
     "url": "nlbao.page",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nlbao-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 571,
-    "timeDay": 546,
-    "timeWeek": 481,
-    "timeMonth": 550,
+    "timeDay": 559,
+    "timeWeek": 492,
+    "timeMonth": 551,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2021-05-14": 0
+      "2021-05-14": 14
     }
   },
   {
